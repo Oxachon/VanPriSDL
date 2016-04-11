@@ -16,8 +16,8 @@ Dependencies
 * [<i class="icon-list"></i> SDL 1.2](https://www.libsdl.org/)
 *  [<i class="icon-list"></i> SDL_image 1.2](https://www.libsdl.org/projects/SDL_image/release-1.2.html)
 *  [<i class="icon-list"></i> SDL_mixer 1.2](https://www.libsdl.org/projects/SDL_mixer/release-1.2.html/)
-> **Note:**
 
+> **Note:**
 >  I know SDL 1.2 is a little old... but it's still in my heart!
 
 ----------
