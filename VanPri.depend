@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1378629952 source:d:\dev\vanpri\evenement.cpp
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"structures.h"
+
+1378633669 d:\dev\vanpri\structures.h
+	<iostream>
+
+1378639658 source:d:\dev\vanpri\fonction.cpp
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"structures.h"
+
+1378975679 source:d:\dev\vanpri\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"structures.h"
+
