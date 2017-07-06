@@ -6,7 +6,7 @@ Quick draft I made in 2013 with SDL.
 
 In this app, SDL was mainly used to learn about animations and layers. It's not the best code friendly, but if you are starting C/C++ and SDL, it's a good way to learn about animations, and how ***SDL_Surfaces*** works. I think you've already guessed it, but this is discontinued. I don't plan on updating it anymore.
 
-![Géré par Charles](http://s2.n4g.com/news/1118530_3.jpg) Readme by Oxachon
+![GÃ©rÃ© par Charles](http://s2.n4g.com/news/1118530_3.jpg) Readme by PaphaC
 
 
 ----------
